@@ -5,7 +5,9 @@ HYPEN_E_DOT = "-.e"
 def get_requirements(file_path:str)->List[str]:
 
     '''
-    This function will install the requirements lis
+    This function will install the requirements List
+
+
     '''
 
     requirements = []
